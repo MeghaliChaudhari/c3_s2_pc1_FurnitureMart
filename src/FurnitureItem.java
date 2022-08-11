@@ -13,7 +13,7 @@ public class FurnitureItem {
         furnitureUsage = "";
         price = 250.50;
     }
-
+    //comment
     public double discount(){
         return price - (price * 5/100);
     }
