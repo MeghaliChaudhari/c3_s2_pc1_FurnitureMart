@@ -1,0 +1,12 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" -javaagent:C:\Users\Meghali\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=51063:C:\Users\Meghali\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin -Dfile.encoding=UTF-8 -classpath "C:\Users\Meghali\OneDrive\Desktop\NIIT Notes\Course3\Sprint2\c3_s2_pc1_FurnitureMart\out\production\c3_s2_pc1_FurnitureMart" FurnitureItemImpl
+Which type of Furniture usage you want
+outdoor
+Which type of furniture you want
+stool
+Which color you want in furniture
+red
+Enter grade
+2
+Discount = 237.975
+
+Process finished with exit code 0
